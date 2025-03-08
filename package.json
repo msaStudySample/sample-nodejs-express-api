@@ -14,7 +14,7 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/msa-study/sample-nodejs-express-api#readme",
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^1.8.2",
     "cookie": "^0.4.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
